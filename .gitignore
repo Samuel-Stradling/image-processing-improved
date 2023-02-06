@@ -1,0 +1,7 @@
+__pycache__/
+*.png
+*.jpg
+*.mp4
+*.DS_Store
+frames/
+*.txt
