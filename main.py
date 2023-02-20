@@ -19,6 +19,7 @@ def frame_color(frame):
 def play_video():
 
     videoPath = "test.mp4"
+    # 0 for video, or "videopath/video.mp4"
 
     cap = cv2.VideoCapture(videoPath)
     while cap.isOpened():
